@@ -1,3 +1,3 @@
 ZGM-Member
 ==========
-Member manager
+Member manager site
